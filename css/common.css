@@ -1,0 +1,43 @@
+.blind {
+    font-size: 0;
+}
+
+.sec {
+    padding: 100px 0;
+}
+
+.con {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: 700;
+    color: #000;
+    margin: 0 0 50px 0;
+    text-align: center;
+}
+
+.title {
+    white-space: nowrap;
+    text-align: center;
+}
+
+.title strong {
+    display: block;
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 30px 0;
+}
+
+.title p {
+    font-size: 18px;
+    font-weight: 200;
+    color: #ddd;
+    line-height: 25px;
+}
