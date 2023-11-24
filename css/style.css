@@ -445,15 +445,18 @@
 
 .mainInvestorRelations .IR_wrap .right_box .imformation_box::after {
     position: absolute;
-    content: "128,400";
     top: 50%;
-    right: 0;
-    transform: translate(-100%, -50%);
+    right: 10px;
+    transform: translate(-50%, -50%);
+    content: "128,400";
+    font-size: 30px;
+    cursor: pointer;
 }
 
 .mainInvestorRelations .IR_wrap .right_box .imformation_box strong {
     display: block;
-    font-size: 20px;
+    font-size: 24px;
+    font-weight: 500;
     margin: 0 0 10px 0;
 }
 
@@ -499,6 +502,7 @@
 .mainNews .news_slide figure p {
     font-size: 16px;
     font-weight: 500;
+    line-height: 20px;
 }
 
 .mainNews .news_slide .slick-slide {
